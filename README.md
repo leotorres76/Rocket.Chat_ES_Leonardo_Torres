@@ -23,9 +23,10 @@
 
 10. Log into [https://luckyowee.com.br](https://luckyowee.com.br/) (Rocket.Chat Server) and register for the first time as Admin
 
-11. Success Login
+11. Success Login! (USER: leotorres | PASSWORD: 30t@o99Xyz)
 
 ![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/success_log_in.png)
 
-12. T the successfull instalation 
+12. The day after the successfull instalation and login I tried to access again and had some technical issues on AWS side and the server became unreachable so I can't perform API Endpoint tests as requested on the assesment. :-(
 
+![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/success_log_in.png)
