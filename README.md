@@ -9,6 +9,8 @@
 
 4. Allocate Elastic IP in order to have a Public IP and Public DNS
 
+![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/aws_elastic_ip_setup.png)
+
 5. Setup DNS and create a CNAME Record (www)as a Subdomain using my own Domain - [luckyowee.com.br](https://luckyowee.com.br/)
 
 6. Install an SSL certificate (I used Let&#39;s Encrypt as suggested)
