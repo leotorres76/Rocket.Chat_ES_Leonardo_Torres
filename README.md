@@ -23,7 +23,7 @@
 
 1. Setup Docker Containers and start them in order to have Rocket.Chat up and running
 
-![Pic3](https://prnt.sc/15py01h)
+![Pic3](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/rocketchat_installation_success.png)
 
 1. Log into [https://luckyowee.com.br](https://luckyowee.com.br/) (Rocket.Chat Server) and register for the first time as Admin
 
