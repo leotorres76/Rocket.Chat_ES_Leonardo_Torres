@@ -13,6 +13,8 @@
 
 5. Setup DNS and create a CNAME Record (www)as a Subdomain using my own Domain - [luckyowee.com.br](https://luckyowee.com.br/)
 
+![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/aws_dns_setup.png)
+
 6. Install an SSL certificate (I used Let&#39;s Encrypt as suggested)
 
 7. Setup Nginx web with TLS/SSL
