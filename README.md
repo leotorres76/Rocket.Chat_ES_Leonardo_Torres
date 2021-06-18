@@ -38,10 +38,11 @@
 2.Creating new User - Success
 
 ![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/02_api_endpoint_register_user.png)
+![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/03_api_endpoint_register_user_success.png)
+
+3. Listing Room Info - Success
 ![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/04_api_endpoint_room_info_success.png)
 
-3.
-![]()
 4.
 ![]()
 5.
