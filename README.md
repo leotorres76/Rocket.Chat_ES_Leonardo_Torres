@@ -35,11 +35,10 @@
 
 1.Test connection autheticating at the API - Success
 
-![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/01_api_endpoint_loggin.png)
+2.Creating new User - Success
 
-2.
-
-![]()
+![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/02_api_endpoint_register_user.png)
+![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/04_api_endpoint_room_info_success.png)
 
 3.
 ![]()
