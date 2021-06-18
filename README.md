@@ -32,10 +32,15 @@
 ![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/success_log_in.png)
 
 ** API ENDPOINT TEST **
+
 1.Test connection autheticating at the API - Success
+
 ![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/01_api_endpoint_loggin.png)
+
 2.
+
 ![]()
+
 3.
 ![]()
 4.
