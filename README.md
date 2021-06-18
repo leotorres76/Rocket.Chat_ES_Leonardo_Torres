@@ -31,9 +31,15 @@
 
 ![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/success_log_in.png)
 
-12. The day after the successfull instalation and login I tried to access again and had some technical issues on AWS side and the server became unreachable so I can't perform API Endpoint tests as requested on the assesment. :-(
-
-![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/aws_instance_status_check_faillure.png)
-
-
+** API ENDPOINT TEST **
+1.Test connection autheticating at the API - Success
+![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/01_api_endpoint_loggin.png)
+2.
+![]()
+3.
+![]()
+4.
+![]()
+5.
+![]()
 **That's all and thank you all for the opportunity!**
