@@ -33,18 +33,21 @@
 
 ** API ENDPOINT TEST **
 
-1.Test connection autheticating at the API - Success
+1.Testing connection authetication at the API - Success
+
+![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/01_api_endpoint_loggin.png)
 
 2.Creating new User - Success
 
 ![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/02_api_endpoint_register_user.png)
+
 ![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/03_api_endpoint_register_user_success.png)
 
-3. Listing Room Info - Success
+3.Listing Room Info - Success
+
 ![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/04_api_endpoint_room_info_success.png)
 
-4.
-![]()
-5.
-![]()
+4.Listing User Roles - Success
+![](https://github.com/leotorres76/Rocket.Chat_ES_Leonardo_Torres/blob/main/05_api_endpoint_roles_list_success.png)
+
 **That's all and thank you all for the opportunity!**
